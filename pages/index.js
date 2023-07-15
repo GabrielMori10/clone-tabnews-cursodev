@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Oi tia Marcela 🤙</h1>;
+  return <h1> Pedro, te observo</h1>;
 }
 
 export default Home;

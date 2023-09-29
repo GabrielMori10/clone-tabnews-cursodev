@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1 style="color: 'DarkOliveGreen'; font-family: Arial">
+    <h1 style={{ color: "DarkOliveGreen", fontFamily: "Arial" }}>
       Está faltando secretos na casa de sisighost
     </h1>
   );
